@@ -28,8 +28,9 @@ This project explores image classification on the CIFAR-10 dataset using both st
      ```
            
 
-  3. Install Required Libraries
-      Ensure you have Python installed (version 3.8 or above). Install the required libraries using the provided requirements.txt file:
+  3. Install Required Libraries\
+      Ensure you have Python installed (version 3.8 or above).\
+      Install the required libraries using the provided requirements.txt file:
   ```bash
         pip install -r requirements.txt
   ```
