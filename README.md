@@ -17,8 +17,8 @@ This project explores image classification on the CIFAR-10 dataset using both st
 * CNN Variants: A modified CNN with larger kernels achieved 69.5% test accuracy but faced overfitting challenges.
 ## Repository Contents
 * Jupyter Notebook: Implementation of models, feature extraction, and training scripts.
-* Saved models: Confusion matrices, classification reports, and performance metrics.
-* Report: Detailed explanations of methods, hyperparameter tuning, and evaluation.
+* Saved models: for all models and any variants
+* Report: Detailed explanations of methods and evaluation.
 ## How to Use
 
   1. Clone the Repository
