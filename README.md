@@ -1,6 +1,4 @@
 # Image Classification Using Naive Bayes, Decision Trees, MLP, and CNN on CIFAR-10 Dataset.
-Author: Andreea Florean\
-Course: Comp 472, Fall 2024
 
 ## Introduction
 This project explores image classification on the CIFAR-10 dataset using both statistical and deep learning models. The implemented models include:
